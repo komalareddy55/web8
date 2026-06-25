@@ -69,7 +69,7 @@ export default function Contact() {
       <a 
   className="ghost-btn contact-resume-btn" 
   href="/Komala_Resume.docx" 
-  download="Komala_Resume.docx"
+  download="/Komala_Resume.docx"
   rel="noreferrer"
 >
   View Resume
