@@ -259,7 +259,7 @@ export default function VideoIntro() {
             <video
               ref={videoRef}
               className="main-video"
-              src="/videos/hero.mp4"
+              src="\videos\PixVerse_V6_Image_Text_360P_Hello_Im_Komala__W.mp4"
               autoPlay
               playsInline
               preload="auto"
