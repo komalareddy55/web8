@@ -66,11 +66,10 @@ export default function Contact() {
           <span>Email</span>
           <a href="mailto:harshithakuree@gmail.com">reddykomala720@gmail.com</a>
         </div>
-      <a 
-  className="ghost-btn contact-resume-btn" 
-  href="\public\resume\Komala_A_Resume.docx" 
-  download="\public\resume\Komala_A_Resume.docx"
-  rel="noreferrer"
+ <a
+  className="ghost-btn contact-resume-btn"
+  href="/resume/Komala_A_Resume.docx"
+  download
 >
   View Resume
 </a>
